@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=333333,0d1117&height=180&section=header&text=&fontSize=90" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,21262d&height=180&section=header&text=&fontSize=90" alt="header"/>
 
 <div align="center">
 
@@ -18,8 +18,9 @@
   <br/><br/>
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=dy1an4895&show_icons=true&title_color=ffffff&text_color=999999&bg_color=0d1117&hide_border=true&hide_title=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dy1an4895&layout=compact&title_color=ffffff&text_color=999999&bg_color=0d1117&hide_border=true&hide_title=true" height="150" alt="languages graph" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan-TBD&layout=compact&title_color=ffffff&text_color=999999&bg_color=0d1117&hide_border=true&hide_title=true" height="150" alt="languages graph" />
+</div>
   
   <br/><br/>
 
@@ -42,4 +43,4 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=333333,0d1117&height=100&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,21262d&height=100&section=footer" alt="footer"/>

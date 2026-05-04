@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Focus-Net_%2F_Sec-333333?style=flat&logo=kalilinux&logoColor=white">
   <img src="https://img.shields.io/badge/DAW-FL_Studio-333333?style=flat&logo=fl-studio&logoColor=white">
   <br/>
-  <img src="https://img.shields.io/badge/Motto-%22I_make_things_I_use_myself.%22-0d1117?style=social">
 
   <br/><br/>
 

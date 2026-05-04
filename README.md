@@ -17,9 +17,7 @@
   <br/><br/>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan-TBD&layout=compact&title_color=ffffff&text_color=999999&bg_color=0d1117&hide_border=true&hide_title=true" height="150" alt="languages graph" />
-</div>
+
   
   <br/><br/>
 
